@@ -1,0 +1,18 @@
+article p:first-of-type {
+  font-size: 140%;
+  font-style: italic;
+}
+article p:last-of-type {
+  font-style: italic;
+}
+ul li:nth-child(odd) {
+  color: orangered;
+}
+a:visited,
+a:link {
+  color: dodgerblue;
+}
+a:hover,
+a:focus {
+  color: fuchsia;
+}

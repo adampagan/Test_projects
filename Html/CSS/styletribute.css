@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+  color: blue;
+}
+#life {
+  color: brown;
+}
+#lifespan {
+  color: purple;
+}
+#Models {
+  color: indigo;
+}
+#psp_1000 {
+  color: green;
+}
+#psp-1000 {
+  width: 350px;
+  object-fit: cover;
+}
+#psp1000 {
+  color: royalblue;
+}
+#psp_2000 {
+  color: lawngreen;
+}
+#psp-2000 {
+  width: 350px;
+}
+#psp2000 {
+  color: darkgreen;
+}
+#psp_3000 {
+  color: darkorchid;
+}
+#psp-3000 {
+  width: 350px;
+}
+#psp3000 {
+  color: deepskyblue;
+}
+#psp_go {
+  color: dodgerblue;
+}
+#psp-go {
+  width: 350px;
+}
+#pspgo {
+  color: fuchsia;
+}

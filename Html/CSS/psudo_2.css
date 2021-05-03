@@ -1,0 +1,14 @@
+p::first-letter {
+  font-size: 140%;
+  font-weight: bold;
+}
+p::first-line {
+  font-weight: bold;
+}
+::selection {
+  background-color: green;
+}
+p::before {
+  content: "...";
+  display: block;
+}

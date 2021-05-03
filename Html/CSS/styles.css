@@ -1,0 +1,10 @@
+#products {
+  color: rebeccapurple;
+}
+.product {
+  color: palegreen;
+}
+a[href="https://google.com"]
+{
+  color: orange;
+}

@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.box::before {
+  content: "SLIFER";
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+}
